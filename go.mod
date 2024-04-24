@@ -1,4 +1,4 @@
-module gameAsset
+module gameAssets
 
 go 1.22.2
 
