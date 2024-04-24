@@ -2,10 +2,9 @@ module gameAssets
 
 go 1.22.2
 
-require github.com/grandcat/zeroconf v1.0.0
+require github.com/oleksandr/bonjour v0.0.0-20210301155756-30f43c61b915
 
 require (
-	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
 	github.com/miekg/dns v1.1.59 // indirect
 	golang.org/x/mod v0.17.0 // indirect
 	golang.org/x/net v0.24.0 // indirect
